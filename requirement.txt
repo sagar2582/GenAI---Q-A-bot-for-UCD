@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-cohere
+langchain-ollama
+langchain-opena
+langchain-community
+chromadb
+pypdf
+streamlit
+pillow
